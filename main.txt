@@ -1,0 +1,18 @@
+Gent : 
+1.ELB       gjys ore, 2 ore 
+2.ECS  
+3.Route 53   5 min , 1 ore
+ 4.VPC       
+ 5.CloudWatch
+6.Nat Gateway
+
+Enrik:
+1.EC2
+2.AutoSchaling
+3.S3
+4.RDS Databaza
+5.CloudFront
+7.Security Groups
+
+
+Docker....Gentt
